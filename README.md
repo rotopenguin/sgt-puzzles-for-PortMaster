@@ -7,4 +7,4 @@ How I built it - I yanked the .jar files off of https://www.chiark.greenend.org.
 
 Todo: everything else that would make it a good port. I think that "lots of little launcher files" would be unappealing to Portmaster, probably need to make some kind of Launcher. SGT-Puzzles looks like it has a very clean front/backend design, maybe I should write my own frontend? SDL, anyone?
 
-Why is this just a dumb tarball? I'm editing it live on my handheld. There's no development enviromnent going on here. There's no ~develoment~ going on here.
+Why is this just a dumb tarball? I'm editing it live on my handheld. There's no development enviromnent going on here. There's no _develoment_ going on here.
