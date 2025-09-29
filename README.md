@@ -1,7 +1,12 @@
 Needs Westonpack and a Java runtime. If you install Unciv through PortMaster, the deps should be there.
 I have only tried it on Anbernic RG34xxSP/Knulli. I have given every puzzle at least a cursory glance, and set controls for most of them.
 Some games don't have functional controls - all of them need some way to say "answer 1-9" as well as "hint 1-9". I don't see how to dance around that with just gptokeyb2. 
+
 Filling has numbers, and a decisive lack of number-hints. Controls are - X to clear selected tile, A/B to lay down smaller or bigger number in selected tile, Y to lay more of the current A/B chosen number.
+
+**Keen**, **Unequal**, **Solo**, and **Towers** do not have usable controls at this time.
+
+
 
 How I built it - I yanked the .jar files off of https://www.chiark.greenend.org.uk/~sgtatham/puzzles/ . I banged my head against the Unciv startup script until I found a combination of weston-launcher options that make the screen do something besides "turn black".
 
