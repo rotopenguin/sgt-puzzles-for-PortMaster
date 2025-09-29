@@ -2,7 +2,7 @@ Needs Westonpack and a Java runtime. If you install Unciv through PortMaster, th
 I have only tried it on Anbernic RG34xxSP/Knulli. I have given every puzzle at least a cursory glance, and set controls for most of them.
 Some games don't have functional controls - all of them need some way to say "answer 1-9" as well as "hint 1-9". I don't see how to dance around that with just gptokeyb2. 
 
-**Filling** has numbers, and a decisive lack of number-hints. Controls are - **X** to clear selected tile, **A**/**B** to lay down smaller or bigger number in the selected tile, **Y** to stamp out more of whateven number you chose with A/B.
+**Filling** has numbers, and a decisive lack of number-hints. Controls are - **X** to clear selected tile, **A**/**B** to lay down smaller or bigger number in the selected tile, **Y** to stamp out more of whatever number you chose with A/B.
 
 **Keen**, **Unequal**, **Solo**, and **Towers** do not have usable controls at this time.
 
