@@ -8,7 +8,7 @@ Controls generally go something like (expressed in Xbox order) -  **B** to make 
 
 **Filling** has numbers, and a decisive lack of number-hints. Controls here are - **X** to clear selected tile, **A**/**B** to lay down smaller or bigger number in the selected tile, **Y** to stamp out more of whatever number you last saw when pressing  A/B. You should read filling.gptk, it is a deeply silly file.
 
-***Undead** has its own scheme, where **X**, **A**, and **B** pick the 3 monsters (as seen in on-screen order). **Y** clears the cell. **Select** or **R1** toggles to marking mode, where you use **X A B** to pip off the 3 monsters. **L1** works as the primary mouse button.
+**Undead** has its own scheme, where **X**, **A**, and **B** pick the 3 monsters (as seen in on-screen order). **Y** clears the cell. **Select** or **R1** toggles to marking mode, where you use **X A B** to pip off the 3 monsters. **L1** works as the primary mouse button.
 
 **Inertia** needs full 8-button directionals. The 4 face buttons provide diagonals, in a  painfully distorted fashion. It would be nice if you could do "hold a button, and the crosspad is still a crosspad but the non-diagonals are mysteriously locked out", huh? 
 
