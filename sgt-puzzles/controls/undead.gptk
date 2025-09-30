@@ -14,9 +14,9 @@ deadzone_delay = 16
 # Clear any defaults
 overlay = clear
 
-a = v
-b = z
-x = g
+a = v #Vampire
+b = z #Zombie
+x = g #Ghost
 y = space
 select = enter
 

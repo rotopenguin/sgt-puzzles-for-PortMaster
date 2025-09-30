@@ -14,7 +14,7 @@ deadzone_delay = 16
 # Clear any defaults
 overlay = clear
 
-a = enter
+a = enter #swap A & B from the usual, so that they match rol and ror
 b = space
 x = a
 y = d

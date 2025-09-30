@@ -24,9 +24,6 @@ java_runtime="/zulu8.86.0.25-ca-jdk8.0.452-linux"
 # Logging
 > "$GAMEDIR/log.txt" && exec > >(tee "$GAMEDIR/log.txt") 2>&1
 
-# Create directory for save files
-CONFDIR="$GAMEDIR/conf/"
-$ESUDO mkdir -p "${CONFDIR}"
 
 # Mount Weston runtime
 weston_dir=/tmp/weston
@@ -81,6 +78,6 @@ if [[ "$PM_CAN_MOUNT" != "N" ]]; then
     $ESUDO umount "${weston_dir}"
     $ESUDO umount "${JAVA_HOME}"
 fi
-killall goodbye.shh
+
 pm_finish
 
