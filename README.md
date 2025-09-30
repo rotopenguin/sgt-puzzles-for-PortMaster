@@ -14,7 +14,7 @@ Controls generally go something like (expressed in Xbox order) -  **B** to make 
 
 **Keen**, **Unequal**, **Solo**, and **Towers** do not have usable controls at this time.
 
-Maps has an icky control scheme of picking up a color _somewhere_, and dropping it on another tile. I would love to see that as "just directly press a face button".
+Maps has an icky control scheme of picking up a color _somewhere_, and dropping it on another tile. I would love to see that as "press a face button, paint a color". There are only 4 colors.
 
 
 
