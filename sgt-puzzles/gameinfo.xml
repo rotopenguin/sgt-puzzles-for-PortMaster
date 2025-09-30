@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./SGT Blackbox.sh</path>
+    <name>SGT Blackbox</name>
+    <desc>Find the hidden balls in the box by bouncing laser beams off them.
+    </desc>
+    <developer>Simon Tatham</developer>
+    <genre>Puzzle</genre>
+    <image>./images/blackbox-web.png</image>
+  </game>
+</gameList>
