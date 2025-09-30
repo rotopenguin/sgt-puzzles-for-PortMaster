@@ -14,11 +14,11 @@ deadzone_delay = 16
 # Clear any defaults
 overlay = clear
 
-a = space
 b = enter
-x = shift
-x = add_ctrl
+x = space
 y = shift
+y = add_ctrl
+a = shift
 
 
 l1 = mouse_right
