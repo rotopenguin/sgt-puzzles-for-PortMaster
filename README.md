@@ -6,7 +6,7 @@ Controls generally go something like (expressed in Xbox order) -  **B** to make 
 
 **Pearl** has a weird scheme where you press **B** to start laying track, and **B** again to stop. Hold **A** and press a direction to place x marks on the edges of your tile. Hold **Y** and press a direction to lay down one piece of track. 
 
-**Filling** has numbers, and a decisive lack of number-hints. Controls here are - **X** to clear selected tile, **A**/**B** to lay down smaller or bigger number in the selected tile, **Y** to stamp out more of whatever number you last saw when pressing  A/B. You should read filling.gptk, it is a deeply silly file.
+**Filling** has numbers, and a decisive lack of number-hints. Controls here are - **X** to clear selected cell, **A**/**B** to lay down smaller or bigger number in the selected cell, **Y** to stamp out more of whatever number you last saw when pressing  A/B. You should read filling.gptk, it is a deeply silly file.
 
 **Undead** has its own scheme, where **X**, **A**, and **B** pick the 3 monsters (as seen in on-screen order). **Y** clears the cell. **Select** or **R1** toggles to marking mode, where you use **X A B** to pip off the 3 monsters. **L1** works as the primary mouse button.
 
@@ -14,7 +14,7 @@ Controls generally go something like (expressed in Xbox order) -  **B** to make 
 
 **Keen**, **Unequal**, **Solo**, and **Towers** do not have usable controls at this time.
 
-Maps has an icky control scheme of picking up a color _somewhere_, and dropping it on another tile. I would love to see that as "press a face button, paint a color". There are only 4 colors.
+Maps has an icky control scheme of picking up a color _somewhere_, and dropping it on another region. I would love to see that as "press a face button, paint a color". There are only 4 colors.
 
 
 
